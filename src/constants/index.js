@@ -19,11 +19,14 @@ import {
   react,
   redux,
   sass,
+  postman,
   snapgram,
   summiz,
   tailwindcss,
   threads,
   typescript,
+  vscode,
+  vercel,
 } from "../assets/icons";
 
 export const skills = [
