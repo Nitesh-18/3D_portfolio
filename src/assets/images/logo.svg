@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="48" height="48" rx="8.88889" fill="white" />
+    <text x="50%" y="50%" font-family="Arial" font-size="20" fill="url(#paint0_linear_1545_39)"
+        font-weight="bold" text-anchor="middle" alignment-baseline="central">NR</text>
+    <defs>
+        <linearGradient id="paint0_linear_1545_39" x1="8" y1="35.5" x2="38.0109" y2="10.5484"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#989FFF" />
+            <stop offset="1" stop-color="#29A2FF" />
+        </linearGradient>
+    </defs>
+</svg>
+  
