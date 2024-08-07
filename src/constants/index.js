@@ -77,6 +77,21 @@ export const skills = [
     name: "JavaScript",
     type: "Frontend",
   },
+  {
+    imageUrl: postman,
+    name: "Postman",
+    type: "API Testing",
+  },
+  {
+    imageUrl: vscode,
+    name: "Visual Studio Code",
+    type: "IDE",
+  },
+  {
+    imageUrl: vercel,
+    name: "Vercel",
+    type: "Deployment",
+  }
 
   // {
   //     imageUrl: nextjs,
