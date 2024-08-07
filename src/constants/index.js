@@ -27,6 +27,7 @@ import {
   typescript,
   vscode,
   vercel,
+  gdsc
 } from "../assets/icons";
 
 export const skills = [
@@ -94,7 +95,7 @@ export const skills = [
     imageUrl: vercel,
     name: "Vercel",
     type: "Deployment",
-  }
+  },
 
   // {
   //     imageUrl: nextjs,
@@ -111,16 +112,17 @@ export const skills = [
 
 export const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Technical Executive",
+    company_name: "Google Students developer Community",
+    icon: gdsc,
     iconBg: "#accbe1",
-    date: "March 2020 - April 2021",
+    date: "September 2023 - June 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Led the development of multiple technical projects, ensuring timely delivery and high-quality standards.",
+      "Collaborated with a diverse team of developers, designers, and project managers to develop innovative solutions.",
+      "Organized and conducted technical workshops and coding sessions to enhance team skills and knowledge.",
+      "Assisted in the design and implementation of web applications using modern frameworks and technologies.",
+      "Contributed to open-source projects and encouraged community participation within the GDSC team.",
     ],
   },
   {
