@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, starbucks, tesla , gdsc} from "../assets/images";
 import {
   car,
   contact,
@@ -27,7 +27,6 @@ import {
   typescript,
   vscode,
   vercel,
-  gdsc
 } from "../assets/icons";
 
 export const skills = [
