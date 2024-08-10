@@ -41,7 +41,7 @@ import {
   netlify,
   sql,
   movie,
-  
+
 } from "../assets/icons";
 
 export const skills = [
@@ -226,6 +226,6 @@ export const projects = [
     name: "Movie-App",
     description:
       "A dynamic movie database application that allows users to search for movies, view detailed information, and manage their watchlist. Built with modern web technologies, this app integrates external APIs to provide real-time data and a seamless user experience.",
-    link: "https://github.com/Nitesh-18/FIT-CONNECT",
+    link: "https://github.com/Nitesh-18/Movie-App",
   },
 ];
