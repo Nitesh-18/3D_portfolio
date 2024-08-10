@@ -27,7 +27,9 @@ import {
   typescript,
   vscode,
   vercel,
-  watch
+  watch,
+  view,
+  gym
 } from "../assets/icons";
 
 export const skills = [
@@ -181,20 +183,20 @@ export const projects = [
     link: "https://github.com/Nitesh-18/The-Virtual-Vault",
   },
   {
-    iconUrl: threads,
-    theme: "btn-back-green",
-    name: "",
+    iconUrl: view,
+    theme: "btn-back-blue",
+    name: "ViewMate",
     description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: "https://github.com/adrianhajdin/threads",
+      'Created a backend replica of the popular vidoe streaming platform "Youtube" enabling users to watch multiple videos and store their watch history also user subscription schema.',
+    link: "https://github.com/Nitesh-18/ViewMate",
   },
   {
-    iconUrl: car,
-    theme: "btn-back-blue",
-    name: "Car Finding App",
+    iconUrl: gym,
+    theme: "btn-back-black",
+    name: "FIT-CONNECT",
     description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+      "Developed a comprehensive web application for a specific gym, promoting its online offerings and enhancing member engagement. It serves as a central platform for gym members to access various online resources, services, and community interactions.",
+    link: "https://github.com/Nitesh-18/FIT-CONNECT",
   },
   
 ];
