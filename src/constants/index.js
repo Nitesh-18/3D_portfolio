@@ -210,5 +210,13 @@ export const projects = [
       "Developed a comprehensive web application for a specific gym, promoting its online offerings and enhancing member engagement. It serves as a central platform for gym members to access various online resources, services, and community interactions.",
     link: "https://github.com/Nitesh-18/FIT-CONNECT",
   },
+  {
+    iconUrl: movie,
+    theme: "btn-back-gray",
+    name: "Movie-App",
+    description:
+      "Developed a comprehensive web application for a specific gym, promoting its online offerings and enhancing member engagement. It serves as a central platform for gym members to access various online resources, services, and community interactions.",
+    link: "https://github.com/Nitesh-18/FIT-CONNECT",
+  },
   
 ];
