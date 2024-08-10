@@ -32,6 +32,8 @@ import vscode from "./vscode.svg";
 import watch from "./watch.svg";
 import view from "./view.svg";
 import gym from "./gym.svg";
+import netlify from "./netlify.svg";
+import sql from "./sql.svg";
 
 export {
   css,
@@ -68,4 +70,6 @@ export {
   watch,
   view,
   gym,
+  netlify,
+  sql,
 };

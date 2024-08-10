@@ -29,7 +29,9 @@ import {
   vercel,
   watch,
   view,
-  gym
+  gym,
+  netlify,
+  sql
 } from "../assets/icons";
 
 export const skills = [
@@ -98,6 +100,16 @@ export const skills = [
     name: "Vercel",
     type: "Deployment",
   },
+  {
+    imageUrl: netlify,
+    name: "Netlify",
+    type: "Deployment",
+  },
+  {
+    imageUrl: sql,
+    name: "SQL",
+    type: "Backend",
+  }
 
   // {
   //     imageUrl: nextjs,
@@ -115,7 +127,7 @@ export const skills = [
 export const experiences = [
   {
     title: "Technical Executive",
-    company_name: "Google Students developer Community",
+    company_name: "Google Students Developer Community",
     icon: gdsc,
     iconBg: "white",
     date: "September 2023 - June 2024",
