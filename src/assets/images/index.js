@@ -5,6 +5,8 @@ import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
 import gdsc from './gdsc.png'
+import az from './az.jpeg'
+import mlsc from './mlsc.jpg'
 
 export {
     hero,
@@ -13,5 +15,7 @@ export {
     starbucks,
     tesla,
     logo,
-    gdsc
+    gdsc,
+    az,
+    mlsc
 }
