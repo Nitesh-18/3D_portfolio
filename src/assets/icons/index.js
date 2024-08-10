@@ -29,6 +29,7 @@ import soundoff from './soundoff.png'
 import postman from './postman.svg'
 import vercel from './vercel.svg'
 import vscode from './vscode.svg'
+import watch from './watch.svg'
 
 export {
     css,
@@ -61,5 +62,6 @@ export {
     soundoff,
     postman,
     vercel,
-    vscode
+    vscode,
+    watch
 }
