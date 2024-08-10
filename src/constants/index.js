@@ -1,4 +1,12 @@
-import { meta, shopify, starbucks, tesla, gdsc, az, mlsc } from "../assets/images";
+import {
+  meta,
+  shopify,
+  starbucks,
+  tesla,
+  gdsc,
+  az,
+  mlsc,
+} from "../assets/images";
 import {
   car,
   contact,
@@ -31,7 +39,9 @@ import {
   view,
   gym,
   netlify,
-  sql
+  sql,
+  movie,
+  
 } from "../assets/icons";
 
 export const skills = [
@@ -109,7 +119,7 @@ export const skills = [
     imageUrl: sql,
     name: "SQL",
     type: "Backend",
-  }
+  },
 
   // {
   //     imageUrl: nextjs,
@@ -215,8 +225,7 @@ export const projects = [
     theme: "btn-back-gray",
     name: "Movie-App",
     description:
-      "Developed a comprehensive web application for a specific gym, promoting its online offerings and enhancing member engagement. It serves as a central platform for gym members to access various online resources, services, and community interactions.",
+      "A dynamic movie database application that allows users to search for movies, view detailed information, and manage their watchlist. Built with modern web technologies, this app integrates external APIs to provide real-time data and a seamless user experience.",
     link: "https://github.com/Nitesh-18/FIT-CONNECT",
   },
-  
 ];

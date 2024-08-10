@@ -51,7 +51,13 @@ const About = () => {
         <h3 className="subhead-text">Work Experience.</h3>
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
-            I've worked with Coding Clubs in my college:
+            Throughout my college career, I have significantly shaped the
+            technology education landscape by holding key positions with
+            Algozenith, the Microsoft Students Learn Community (MLSC), and the
+            Google Students Developer Community. My roles involved spearheading
+            dynamic workshops and projects that emphasized coding, technology,
+            and collaborative learning, directly boosting the technical prowess
+            and innovation among students.
           </p>
         </div>
 
