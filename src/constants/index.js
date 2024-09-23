@@ -41,7 +41,7 @@ import {
   netlify,
   sql,
   movie,
-
+  health
 } from "../assets/icons";
 
 export const skills = [
@@ -197,8 +197,16 @@ export const socialLinks = [
 
 export const projects = [
   {
+    iconUrl: health,
+    theme: "btn-back-pink",
+    name: "Health-Tracking-App",
+    description:
+      "Developed an ecommerce web application of premium watches that give users add to cart feature and to owner creating product makes easier and making it available to offer online.",
+    link: "https://health-tracking-app-jmv3.onrender.com/",
+  },
+  {
     iconUrl: watch,
-    theme: "btn-back-red",
+    theme: "btn-back-blue",
     name: "The Virtual Vault",
     description:
       "Developed an ecommerce web application of premium watches that give users add to cart feature and to owner creating product makes easier and making it available to offer online.",
@@ -206,10 +214,10 @@ export const projects = [
   },
   {
     iconUrl: view,
-    theme: "btn-back-blue",
+    theme: "btn-back-red",
     name: "ViewMate",
     description:
-      'Created a backend replica of the popular vidoe streaming platform "Youtube" enabling users to watch multiple videos and store their watch history also user subscription schema.',
+      'Created a backend replica of the popular video streaming platform "Youtube" enabling users to watch multiple videos and store their watch history also user subscription schema.',
     link: "https://github.com/Nitesh-18/ViewMate",
   },
   {
@@ -218,7 +226,7 @@ export const projects = [
     name: "FIT-CONNECT",
     description:
       "Developed a comprehensive web application for a specific gym, promoting its online offerings and enhancing member engagement. It serves as a central platform for gym members to access various online resources, services, and community interactions.",
-    link: "https://github.com/Nitesh-18/FIT-CONNECT",
+    link: "https://fit-connect-your-gymhub.vercel.app/",
   },
   {
     iconUrl: movie,

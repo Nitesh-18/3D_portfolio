@@ -49,7 +49,7 @@ const Projects = () => {
                   rel="noopener noreferrer"
                   className="font-semibold text-blue-600"
                 >
-                  Repo Link
+                  Link
                 </Link>
                 <img
                   src={arrow}
