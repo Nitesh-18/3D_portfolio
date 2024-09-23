@@ -14,7 +14,7 @@ Welcome to my **3D Portfolio** website! This project is a personal showcase of m
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+<!-- - [Screenshots](#screenshots) -->
 - [Deployment](#deployment)
 - [Contact](#contact)
 
