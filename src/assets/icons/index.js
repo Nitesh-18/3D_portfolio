@@ -35,7 +35,9 @@ import gym from "./gym.svg";
 import netlify from "./netlify.svg";
 import sql from "./sql.svg";
 import movie from "./movie.svg";
-import health from './health.svg'
+import health from "./health.svg";
+import coin from "./coin.svg"
+import calendar from "./calendar.svg"
 
 
 export {
@@ -76,5 +78,7 @@ export {
   netlify,
   sql,
   movie,
-  health
+  health,
+  coin,
+  calendar
 };

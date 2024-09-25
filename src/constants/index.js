@@ -41,7 +41,9 @@ import {
   netlify,
   sql,
   movie,
-  health
+  health,
+  coin,
+  calendar
 } from "../assets/icons";
 
 export const skills = [
@@ -221,6 +223,22 @@ export const projects = [
     link: "https://github.com/Nitesh-18/ViewMate",
   },
   {
+    iconUrl: coin,
+    theme: "btn-back-yellow",
+    name: "CoinFlip Game DApp",
+    description:
+      "This is a decentralized application (DApp) built on the Ethereum blockchain. The Coin Flip Game allows users to place bets on the outcome of a coin flip using cryptocurrency",
+    link: "https://coinflip-game-nr.vercel.app/",
+  },
+  {
+    iconUrl: calendar,
+    theme: "btn-back-green",
+    name: "Calendar App",
+    description:
+      "The Calendar App is a dynamic event management tool built with React. It allows users to schedule, view, and manage events seamlessly with an intuitive interface. Key features include date selection, event reminders, and an interactive, user-friendly UI for easy navigation.",
+    link: "https://calendar-app-react-nr.vercel.app",
+  },
+  {
     iconUrl: gym,
     theme: "btn-back-black",
     name: "FIT-CONNECT",
@@ -233,7 +251,7 @@ export const projects = [
     theme: "btn-back-gray",
     name: "Movie-App",
     description:
-      "A dynamic movie database application that allows users to search for movies, view detailed information, and manage their watchlist. Built with modern web technologies, this app integrates external APIs to provide real-time data and a seamless user experience.",
+      "A dynamic movie database application that allows users to search for movies. Built with modern web technologies, this app integrates external APIs to provide real-time data and a seamless user experience.",
     link: "https://github.com/Nitesh-18/Movie-App",
   },
 ];
